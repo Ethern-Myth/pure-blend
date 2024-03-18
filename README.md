@@ -4,6 +4,12 @@
 
 [![npm downloads](https://img.shields.io/npm/dm/pure-blend)](https://www.npmjs.com/package/pure-blend)
 
+<div align="center">
+
+![Logo](/assets/logo/pure-blend.png)
+
+</div>
+
 ## Pure Blend - Cache Manager
 
 The Pure Blend - Cache Manager is a versatile caching module for Node.js applications, allowing developers to seamlessly integrate caching mechanisms into their Express.js middleware stack.
